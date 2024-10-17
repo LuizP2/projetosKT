@@ -20,7 +20,9 @@ fun main() {
 /*
 projetos disponíveis:
 
-calcImc(peso: 00.0, altura: 0.00) *Double* Função que calcula seu IMC
+calcImc(peso: 00.0, altura: 0.00) *Double* Função que calcula seu IMC.
 
-fibonacci(x: 0) *Int* Função que determina se o número indicado no parâmetro faz parte da sequência de Fibonacci ou não
+fibonacci(x: 0) *Int* Função que determina se o número indicado no parâmetro faz parte da sequência de Fibonacci ou não.
+
+getIndice(indice: 0) gera uma sequência no índice K, a qual soma todos os valores anteriores do índice e nos mostra o resultado da soma.
  */
