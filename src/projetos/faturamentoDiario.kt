@@ -1,7 +1,5 @@
 package projetos
 
-import kotlin.math.absoluteValue
-
 class faturamentoDiario(
     val fatDiario: Map<String, Double> = mapOf( //Cria um dicionário que determina um valor exato para cada dia. fiz ele HardCoded, não é a melhor forma de implementa-lo, mas para aprendizado ele irá servir.
         "1" to 22174.1664,
