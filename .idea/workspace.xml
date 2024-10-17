@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d6c725a-37d9-43ba-a2ab-f28f580377fd" name="Changes" comment="Create repository">
-      <change afterPath="$PROJECT_DIR$/src/projetos/Fibonacci.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projetos/imc.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projetos/indice.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projetos/Imc.kt" beforeDir="false" />
-    </list>
+    <list default="true" id="1d6c725a-37d9-43ba-a2ab-f28f580377fd" name="Changes" comment="." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +21,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "LuizP2"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/LuizP2/projetosKT.git",
+    "accountId": "12316377-b6d2-45c4-bae5-deefa40a9b21"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -72,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729169530157</updated>
-      <workItem from="1729169531177" duration="3895000" />
+      <workItem from="1729169531177" duration="4712000" />
     </task>
     <task id="LOCAL-00001" summary="Create repository">
       <option name="closed" value="true" />
@@ -82,11 +87,38 @@
       <option name="project" value="LOCAL" />
       <updated>1729171282295</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adicionando algoritmos">
+      <option name="closed" value="true" />
+      <created>1729173652763</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729173652763</updated>
+    </task>
+    <task id="LOCAL-00003" summary=".">
+      <option name="closed" value="true" />
+      <created>1729174183204</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729174183204</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="GitHub.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -101,6 +133,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create repository" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create repository" />
+    <MESSAGE value="adicionando algoritmos" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>
